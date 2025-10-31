@@ -1,13 +1,10 @@
-AluraFlix
+AluraFlix ✨
 
-AluraFlix é um projeto web inspirado em plataformas de streaming, criado como forma de praticar HTML, CSS e JavaScript. O site apresenta conteúdos sobre Halu Gamashi, fundadora do IMA (Instituto dos Mistérios Ascensionais), incluindo informações sobre sua trajetória, cursos, palestras e vivências voltadas para o desenvolvimento humano, espiritualidade e autoconhecimento.
-O projeto conta com seções de relatos, biografia e temas relacionados a terapias, chakras, campo áurico, astrosofia e comportamento humano, oferecendo uma experiência visual e interativa ao usuário.
+Projeto web inspirado em plataformas de streaming, criado para praticar HTML, CSS e JavaScript.
 
-       Tecnologias utilizadas:
-       HTML5
-       CSS3
-       JavaScript
+✅ Explore conteúdos sobre Halu Gamashi, fundadora do IMA
+✅ Descubra cursos, palestras e vivências sobre desenvolvimento humano, espiritualidade e autoconhecimento
+✅ Seções de relatos, biografia e temas como terapias, chakras e astrosofia
 
-
-Objetivo do projeto:
-Praticar a construção de sites responsivos e organizados, estruturando informações de forma clara e atrativa para o usuário, enquanto apresenta conteúdos educativos e inspiradores.
+Tecnologias: HTML5, CSS3, JavaScript
+Objetivo: Criar um site responsivo e organizado, oferecendo ao usuário uma experiência interativa e conteúdos educativos e inspiradores.
